@@ -1,0 +1,13 @@
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\obj\Debug\netcoreapp3.1\HandsOnAsynchronous.csprojAssemblyReference.cache
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\obj\Debug\netcoreapp3.1\HandsOnAsynchronous.csproj.CoreCompileInputs.cache
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\obj\Debug\netcoreapp3.1\HandsOnAsynchronous.AssemblyInfoInputs.cache
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\obj\Debug\netcoreapp3.1\HandsOnAsynchronous.AssemblyInfo.cs
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\bin\Debug\netcoreapp3.1\HandsOnAsynchronous.exe
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\bin\Debug\netcoreapp3.1\HandsOnAsynchronous.deps.json
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\bin\Debug\netcoreapp3.1\HandsOnAsynchronous.runtimeconfig.json
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\bin\Debug\netcoreapp3.1\HandsOnAsynchronous.runtimeconfig.dev.json
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\bin\Debug\netcoreapp3.1\HandsOnAsynchronous.dll
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\bin\Debug\netcoreapp3.1\HandsOnAsynchronous.pdb
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\obj\Debug\netcoreapp3.1\HandsOnAsynchronous.dll
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\obj\Debug\netcoreapp3.1\HandsOnAsynchronous.pdb
+E:\pat training\14-07-2020\HandsOnAsynchronous\HandsOnAsynchronous\obj\Debug\netcoreapp3.1\HandsOnAsynchronous.genruntimeconfig.cache
