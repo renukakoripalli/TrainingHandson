@@ -1,0 +1,13 @@
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\bin\Debug\netcoreapp3.1\HandsOnGenerics.exe
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\bin\Debug\netcoreapp3.1\HandsOnGenerics.deps.json
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\bin\Debug\netcoreapp3.1\HandsOnGenerics.runtimeconfig.json
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\bin\Debug\netcoreapp3.1\HandsOnGenerics.runtimeconfig.dev.json
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\bin\Debug\netcoreapp3.1\HandsOnGenerics.dll
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\bin\Debug\netcoreapp3.1\HandsOnGenerics.pdb
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\obj\Debug\netcoreapp3.1\HandsOnGenerics.csprojAssemblyReference.cache
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\obj\Debug\netcoreapp3.1\HandsOnGenerics.csproj.CoreCompileInputs.cache
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\obj\Debug\netcoreapp3.1\HandsOnGenerics.AssemblyInfoInputs.cache
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\obj\Debug\netcoreapp3.1\HandsOnGenerics.AssemblyInfo.cs
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\obj\Debug\netcoreapp3.1\HandsOnGenerics.dll
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\obj\Debug\netcoreapp3.1\HandsOnGenerics.pdb
+E:\pat training\10-07-2020\HandsOnGenerics\HandsOnGenerics\obj\Debug\netcoreapp3.1\HandsOnGenerics.genruntimeconfig.cache

@@ -9,66 +9,69 @@ namespace HandsOnLinq
     {
         static void Main(string[] args)
         {
-            List<Employee> employeelist = new List<Employee>
+            List<Employee> EmployeeList = new List<Employee>
             {
-                new Employee{empid=1,empname="renu",salary=30000,gender='F',experience=2},
-                new Employee{empid=2,empname="siva",salary=45000,gender='M',experience=5},
-                new Employee{empid=3,empname="rani",salary=42000,gender='F',experience=3},
-                new Employee{empid=4,empname="pravallika",salary=25000,gender='F',experience=1},
-                new Employee{empid=5,empname="Revanth",salary=30000,gender='M',experience=2},
+                new Employee{EmpId=1,EmpName="renu",Salary=30000,Gender='F',Experience=2},
+                new Employee{EmpId=2,EmpName="siva",Salary=45000,Gender='M',Experience=5},
+                new Employee{EmpId=3,EmpName="rani",Salary=42000,Gender='F',Experience=3},
+                new Employee{EmpId=4,EmpName="pravallika",Salary=25000,Gender='F',Experience=1},
+                new Employee{EmpId=5,EmpName="Revanth",Salary=30000,Gender='M',Experience=2},
              };
+            //Select=is used when you want to select  value from the given list.
+            var res0 = EmployeeList.Select(a => a.EmpName ).ToList();
+            foreach (var val0 in res0)          
+            Console.WriteLine(val0);
             //Where=returns the values from the list based on the given condition 
-            List<Employee> employeename = employeelist.Where(x => x.gender == 'M').ToList();
+            List<Employee> employeename = EmployeeList.Where(x => x.Gender == 'M').ToList();
             foreach(var item in employeename)
-            Console.WriteLine(item.empname);
-            //Single operator=to return the single element from the list or returns the single element which specifies the given condition.
-            var res = employeelist.Single(e => e.empname == "renu");
-            int val = res.salary;
-            Console.WriteLine(val);
-            /*SingleOrDefault= returns the only element of the collection or sequence which specifies the given condition 
-            and will throw an exception if more than one element exists that specifies the given condition*/
-            var res1 = employeelist.SingleOrDefault(e => e.salary == 60000);
-            string val1 = res1.empname;
-            Console.WriteLine(val1);
+            Console.WriteLine(item.EmpName);
             //OrderBy = returns rearranging the elements of the given list in ascending order
-            var res2 = employeelist.OrderBy(a => a.salary);          
+            var res2 = EmployeeList.OrderBy(a => a.Salary);          
             foreach (var x in res2)
-            Console.WriteLine(x.salary);
+            Console.WriteLine(x.Salary);
             //OrderByDescending=returns rearranging the elements of the given list in descending order
-            var res3 = employeelist.OrderByDescending(a => a.salary);
+            var res3 = EmployeeList.OrderByDescending(a => a.Salary);
             foreach (var y in res3)
-            Console.WriteLine(y.salary);
-            //ThenBy=
-            var res4 = employeelist.OrderBy(e => e.empname).ThenBy(e => e.salary);
+            Console.WriteLine(y.Salary);
+            //ThenBy=return the list with given slaray in ascending order
+            var res4 = EmployeeList.OrderBy(e => e.EmpName).ThenBy(e => e.Salary);
             foreach (var z in res4)           
-            Console.WriteLine("Employee Name: {0} Salary: {1}",z.empname,z.salary);
+            Console.WriteLine("Employee Name: {0} Salary: {1}",z.EmpName,z.Salary);
             //reverse= it reverses the order of the collection, i.e in descending order.
-            var res5 = employeelist.OrderBy(e => e.empname).Reverse();
+            var res5 = EmployeeList.OrderBy(e => e.EmpName).Reverse();
             foreach (var v in res5)           
-            Console.WriteLine(v.empname);
+            Console.WriteLine(v.EmpName);
             //GroupBy=returns the group of elements based on the given key
-            var res6 = employeelist.GroupBy(e => e.gender);
+            var res6 = EmployeeList.GroupBy(e => e.Gender);
             foreach (var r in res6)
             {
                 Console.WriteLine(r.Key);
                 foreach (Employee e in r)
-                    Console.WriteLine(e.empname);
+                    Console.WriteLine(e.EmpName);
             }
             //Sum=adds the list values
-            var res7 = employeelist.Sum(e => e.salary);
+            var res7 = EmployeeList.Sum(e => e.Salary);
             Console.WriteLine(res7);
             //Average=returns the average of the values in the list
-            var res8 = employeelist.Average(e => e.salary);
+            var res8 = EmployeeList.Average(e => e.Salary);
             Console.WriteLine(res8);
             //Min=returns minimum value from the list
-            var res9 = employeelist.Min(e => e.salary);
+            var res9 = EmployeeList.Min(e => e.Salary);
             Console.WriteLine(res9);
             /*All=All operator is used to check each and every element in the list if all the elements satisfy 
               the given condition then it will return true.Otherwise, return false*/
-            var res10 = employeelist.All(e => e.gender =='F');
+            var res10 = EmployeeList.All(e => e.Gender =='F');
             Console.WriteLine(res10);
-
-        Console.ReadLine();
+            //Single operator=to return the single element from the list or returns the single element which specifies the given condition.
+            var res = EmployeeList.Single(e => e.EmpName == "renu");
+            int val = res.Salary;
+            Console.WriteLine(val);
+            /*SingleOrDefault= returns the only element of the collection or sequence which specifies the given condition 
+            and will throw an exception if more than one element exists that specifies the given condition*/
+            var res1 = EmployeeList.SingleOrDefault(e => e.Salary >=20000);
+            string val1 = res1.EmpName;
+            Console.WriteLine(val1);
+            Console.ReadLine();
         }
     }
 }
