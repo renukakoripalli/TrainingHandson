@@ -1,0 +1,13 @@
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\bin\Debug\netcoreapp3.1\HandsOnDelegate.exe
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\bin\Debug\netcoreapp3.1\HandsOnDelegate.deps.json
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\bin\Debug\netcoreapp3.1\HandsOnDelegate.runtimeconfig.json
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\bin\Debug\netcoreapp3.1\HandsOnDelegate.runtimeconfig.dev.json
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\bin\Debug\netcoreapp3.1\HandsOnDelegate.dll
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\bin\Debug\netcoreapp3.1\HandsOnDelegate.pdb
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\obj\Debug\netcoreapp3.1\HandsOnDelegate.csprojAssemblyReference.cache
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\obj\Debug\netcoreapp3.1\HandsOnDelegate.csproj.CoreCompileInputs.cache
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\obj\Debug\netcoreapp3.1\HandsOnDelegate.AssemblyInfoInputs.cache
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\obj\Debug\netcoreapp3.1\HandsOnDelegate.AssemblyInfo.cs
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\obj\Debug\netcoreapp3.1\HandsOnDelegate.dll
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\obj\Debug\netcoreapp3.1\HandsOnDelegate.pdb
+E:\pat training\15-07-2020\HandsOnDelegate\HandsOnDelegate\obj\Debug\netcoreapp3.1\HandsOnDelegate.genruntimeconfig.cache
