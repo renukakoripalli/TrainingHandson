@@ -68,9 +68,29 @@ namespace HandsOnLinq
             Console.WriteLine(val);
             /*SingleOrDefault= returns the only element of the collection or sequence which specifies the given condition 
             and will throw an exception if more than one element exists that specifies the given condition*/
-            var res1 = EmployeeList.SingleOrDefault(e => e.Salary >=20000);
+            var res1 = EmployeeList.SingleOrDefault(e => e.Salary ==25000);
             string val1 = res1.EmpName;
             Console.WriteLine(val1);
+            //=>
+            List<int> List1 = new List<int>() { 3,6,2,7,9 };
+            List<int> List2 = new List<int>() { 1,4,6,5,9 };
+            //Union=returns the lists combine
+            var resUnion = List1.Union(List2);
+            foreach (var v in resUnion)
+            Console.WriteLine(v);
+            //Except=returns the set difference
+            var resExcept = List1.Except(List2);
+            foreach (var j in resExcept)
+            Console.WriteLine(j);
+            //Intersect=return the set  which contain the common elements appears in two sets.
+            var resIntersect = List1.Intersect(List2);
+            foreach (var v in resIntersect)
+            Console.WriteLine(v);
+            //Distinct=returns the set which does not contain duplicate values
+            List<char> List3 = new List<char>() { 'w', 'r', 'v', 'a', 'a', 'r', 'y', 'w' };
+            var result = List3.Distinct();
+            foreach (var v in result)
+             Console.WriteLine(v);
             Console.ReadLine();
         }
     }
