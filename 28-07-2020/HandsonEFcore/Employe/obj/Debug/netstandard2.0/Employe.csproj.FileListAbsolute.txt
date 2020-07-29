@@ -1,0 +1,9 @@
+E:\pat training\10-07-2020\HandsonEFcore\Employe\bin\Debug\netstandard2.0\Employe.deps.json
+E:\pat training\10-07-2020\HandsonEFcore\Employe\bin\Debug\netstandard2.0\Employe.dll
+E:\pat training\10-07-2020\HandsonEFcore\Employe\obj\Debug\netstandard2.0\Employe.csprojAssemblyReference.cache
+E:\pat training\10-07-2020\HandsonEFcore\Employe\obj\Debug\netstandard2.0\Employe.AssemblyInfoInputs.cache
+E:\pat training\10-07-2020\HandsonEFcore\Employe\obj\Debug\netstandard2.0\Employe.AssemblyInfo.cs
+E:\pat training\10-07-2020\HandsonEFcore\Employe\bin\Debug\netstandard2.0\Employe.pdb
+E:\pat training\10-07-2020\HandsonEFcore\Employe\obj\Debug\netstandard2.0\Employe.csproj.CoreCompileInputs.cache
+E:\pat training\10-07-2020\HandsonEFcore\Employe\obj\Debug\netstandard2.0\Employe.dll
+E:\pat training\10-07-2020\HandsonEFcore\Employe\obj\Debug\netstandard2.0\Employe.pdb
