@@ -1,0 +1,13 @@
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\bin\Debug\netcoreapp3.1\HandsOnOCP.exe
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\bin\Debug\netcoreapp3.1\HandsOnOCP.deps.json
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\bin\Debug\netcoreapp3.1\HandsOnOCP.runtimeconfig.json
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\bin\Debug\netcoreapp3.1\HandsOnOCP.runtimeconfig.dev.json
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\bin\Debug\netcoreapp3.1\HandsOnOCP.dll
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\bin\Debug\netcoreapp3.1\HandsOnOCP.pdb
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\obj\Debug\netcoreapp3.1\HandsOnOCP.csprojAssemblyReference.cache
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\obj\Debug\netcoreapp3.1\HandsOnOCP.AssemblyInfoInputs.cache
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\obj\Debug\netcoreapp3.1\HandsOnOCP.AssemblyInfo.cs
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\obj\Debug\netcoreapp3.1\HandsOnOCP.csproj.CoreCompileInputs.cache
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\obj\Debug\netcoreapp3.1\HandsOnOCP.dll
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\obj\Debug\netcoreapp3.1\HandsOnOCP.pdb
+E:\pat training\20-07-2020-Solid Principles\OCP\HandsOnOCP\HandsOnOCP\obj\Debug\netcoreapp3.1\HandsOnOCP.genruntimeconfig.cache

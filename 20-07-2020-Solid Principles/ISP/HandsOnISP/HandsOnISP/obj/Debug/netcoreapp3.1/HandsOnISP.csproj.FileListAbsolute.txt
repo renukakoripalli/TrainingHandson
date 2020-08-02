@@ -1,0 +1,13 @@
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\bin\Debug\netcoreapp3.1\HandsOnISP.exe
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\bin\Debug\netcoreapp3.1\HandsOnISP.deps.json
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\bin\Debug\netcoreapp3.1\HandsOnISP.runtimeconfig.json
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\bin\Debug\netcoreapp3.1\HandsOnISP.runtimeconfig.dev.json
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\bin\Debug\netcoreapp3.1\HandsOnISP.dll
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\bin\Debug\netcoreapp3.1\HandsOnISP.pdb
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\obj\Debug\netcoreapp3.1\HandsOnISP.csprojAssemblyReference.cache
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\obj\Debug\netcoreapp3.1\HandsOnISP.AssemblyInfoInputs.cache
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\obj\Debug\netcoreapp3.1\HandsOnISP.AssemblyInfo.cs
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\obj\Debug\netcoreapp3.1\HandsOnISP.csproj.CoreCompileInputs.cache
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\obj\Debug\netcoreapp3.1\HandsOnISP.dll
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\obj\Debug\netcoreapp3.1\HandsOnISP.pdb
+E:\pat training\20-07-2020-Solid Principles\ISP\HandsOnISP\HandsOnISP\obj\Debug\netcoreapp3.1\HandsOnISP.genruntimeconfig.cache

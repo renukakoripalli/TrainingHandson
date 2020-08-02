@@ -1,0 +1,13 @@
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\bin\Debug\netcoreapp3.1\HandsOnLSP.exe
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\bin\Debug\netcoreapp3.1\HandsOnLSP.deps.json
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\bin\Debug\netcoreapp3.1\HandsOnLSP.runtimeconfig.json
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\bin\Debug\netcoreapp3.1\HandsOnLSP.runtimeconfig.dev.json
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\bin\Debug\netcoreapp3.1\HandsOnLSP.dll
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\bin\Debug\netcoreapp3.1\HandsOnLSP.pdb
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\obj\Debug\netcoreapp3.1\HandsOnLSP.csprojAssemblyReference.cache
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\obj\Debug\netcoreapp3.1\HandsOnLSP.AssemblyInfoInputs.cache
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\obj\Debug\netcoreapp3.1\HandsOnLSP.AssemblyInfo.cs
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\obj\Debug\netcoreapp3.1\HandsOnLSP.csproj.CoreCompileInputs.cache
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\obj\Debug\netcoreapp3.1\HandsOnLSP.dll
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\obj\Debug\netcoreapp3.1\HandsOnLSP.pdb
+E:\pat training\20-07-2020-Solid Principles\LSP\HandsOnLSP\HandsOnLSP\obj\Debug\netcoreapp3.1\HandsOnLSP.genruntimeconfig.cache
