@@ -1,0 +1,13 @@
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.exe
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.deps.json
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.runtimeconfig.json
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.runtimeconfig.dev.json
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.dll
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.pdb
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.csprojAssemblyReference.cache
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.AssemblyInfoInputs.cache
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.AssemblyInfo.cs
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.csproj.CoreCompileInputs.cache
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.dll
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.pdb
+E:\pat training\21-07-2020-Design Patterns\Singleton\HandsOnSingleton\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.genruntimeconfig.cache
